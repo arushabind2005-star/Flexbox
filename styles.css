@@ -42,9 +42,21 @@
     border: 2px solid black;
     display: flex;
     flex-direction: column;
-    padding: 2px;
+    padding: 4px;
 }
 .profile_card img{
     width: 200px;
     height: 250px;
+}
+/* Q5 */
+.course_card{
+    width: 450px;
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+}
+.course_card img{
+    width: 450px;
+    height: 300px;
+    
 }

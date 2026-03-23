@@ -80,3 +80,17 @@
     flex-direction: column;
 }
 /* Q7 */
+.testimonial_card{
+    max-width: 400px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    
+}
+.testimonial_card message{
+    font-style: italic;
+}
+.testimonial_card user{
+    align-self: self-end;
+}

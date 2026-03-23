@@ -36,3 +36,15 @@
     flex:1;
     text-align: center;
 }
+/* Q4 */
+.profile_card{
+    width: 200px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    padding: 2px;
+}
+.profile_card img{
+    width: 200px;
+    height: 250px;
+}
